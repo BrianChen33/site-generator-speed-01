@@ -1,7 +1,11 @@
+[![make.fun](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/BrianChen33/site-generator-speed-01/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/BrianChen33/site-generator-speed-01/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+
 # site-generator-speed-01
 
 A faster drop-in for make.fun's own `makefun-site` 1.0.0, written for the
-make.fun competition "Build a static site faster" (`site-generator-speed-01-run-20261122`).
+[make.fun](https://make.fun/bounty/site-generator-speed-01-run-20261122) competition "Build a static site faster" (`site-generator-speed-01-run-20261122`).
 
 `run(input)` in `solve.js` returns exactly the answer `makefun-site` 1.0.0
 returns for every case input: the output tree of the site build (each page's
